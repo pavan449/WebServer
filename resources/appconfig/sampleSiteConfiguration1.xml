@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+	<applicationName> WebApplication </applicationName>
+    <rootPath>E:\Eclipse Workspace_VSMReporting\WebServer\resources\webapp1</rootPath>
+    <port>8081</port>
+    <host>*</host>
+    <indexHandler>index.html</indexHandler>
+</site>
